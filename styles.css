@@ -56,6 +56,6 @@ h1 {
 }
 
 .gray {
-    background: linear-gradient(rgb(10, 255, 206), rgb(69, 246, 255), rgb(55, 255, 44));
+    background: linear-gradient(rgb(147, 3, 199), rgb(21, 21, 255), rgb(13, 174, 255));
     box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
 }
